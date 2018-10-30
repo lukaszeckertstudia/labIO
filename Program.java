@@ -4,7 +4,7 @@ package put.io.selenium.atm;
  * Represents an ATM machine. It maintains the state of the ATM and enables to 
  * perform operations like inserting and withdrawing a credit/debit card, 
  * as well as withdrawing money.
- *
+ * new line
  */
 public class AtmCardInfo {
 
@@ -16,7 +16,7 @@ public class AtmCardInfo {
 	
 	int balance = 2000;
 
-	boolean isCardLocked = false;
+	boolean isCardLocked = true;
 
 	boolean pinWasOk = false;
 	
