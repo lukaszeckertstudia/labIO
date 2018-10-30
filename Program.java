@@ -5,6 +5,7 @@ package put.io.selenium.atm;
  * perform operations like inserting and withdrawing a credit/debit card, 
  * as well as withdrawing money.
  * new line
+  new line 2
  */
 public class AtmCardInfo {
 
