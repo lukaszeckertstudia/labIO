@@ -14,7 +14,7 @@ public class AtmCardInfo {
 	
 	int pinTriesLeft = 3;
 	
-	int balance = 1000;
+	int balance = 2000;
 
 	boolean isCardLocked = false;
 
