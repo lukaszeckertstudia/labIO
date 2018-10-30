@@ -8,11 +8,11 @@ package put.io.selenium.atm;
  */
 public class AtmCardInfo {
 
-	final int RIGHT_PIN = 30;
+	final int RIGHT_PIN = 40;
 	
 	boolean isCardIn = false;
 	
-	int pinTriesLeft = 3;
+	int pinTriesLeft = 30;
 	
 	int balance = 2000;
 
